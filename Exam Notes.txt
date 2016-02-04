@@ -1,0 +1,5 @@
+Inheritance - Code reuse & ease of use
+
+Composition - Alternate method of inheritance
+
+Protected and private - 
